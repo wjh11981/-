@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dccb99ba-b24d-42e6-a34e-dcf93a2c6e86" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.py" />
+    <property name="last_opened_file_path" value="E:/大学(本科四年)/大三下/面向领域的实践1/spider_demo" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunManager">
@@ -76,10 +77,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616736548456" />
-    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1616736546398">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1619249584244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616736546398" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619249584244" />
     <state width="1899" height="197" key="GridCell.Tab.0.bottom" timestamp="1619156982741">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -100,10 +101,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616736187670" />
-    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1619157066612">
+    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1619249555266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619157066612" />
+    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619249555266" />
     <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618552915066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
