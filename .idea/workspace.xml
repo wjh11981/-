@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dccb99ba-b24d-42e6-a34e-dcf93a2c6e86" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/suplerlists/lists/migrations/0003_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suplerlists/lists/migrations/0004_item_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suplerlists/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,10 +110,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616736187670" />
-    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1620623838760">
+    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1621841992615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620623838760" />
+    <state x="1166" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621841992615" />
     <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618552915066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
