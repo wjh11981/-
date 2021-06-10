@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dccb99ba-b24d-42e6-a34e-dcf93a2c6e86" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/suplerlists/lists/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/functional_tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/functional_tests/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/suplerlists/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
