@@ -76,6 +76,3 @@ class NewVisitorTest(LiveServerTestCase):
         self.assertNotIn('Buy peacock feathers', page_text)
         self.assertNotIn('Buy milk', page_text)
 
-
-
-
