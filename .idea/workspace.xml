@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dccb99ba-b24d-42e6-a34e-dcf93a2c6e86" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/functional_tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/functional_tests/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/lists/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suplerlists/suplerlists/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/suplerlists/suplerlists/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
